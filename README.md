@@ -10,7 +10,7 @@ This modified model is much faster and has almost the same detection performance
 Modified SSDlite FPN MobileNet V2:
 ![model diagram](https://raw.githubusercontent.com/KrzysztofV/SSDlite-FPN-MobileNet-V2-Object-Detection-API/master/fpn%20model.png)
 
-Anchors scale and aspect ratios:
+Anchors scale and aspect ratios (23x40 feature map):
 ![Anchor scale and aspect ratios](https://raw.githubusercontent.com/KrzysztofV/SSDlite-FPN-MobileNet-V2-Object-Detection-API/master/anchors%20on%2023x40%20feature%20map.png)
 
 Number of detections on individual feature maps:
