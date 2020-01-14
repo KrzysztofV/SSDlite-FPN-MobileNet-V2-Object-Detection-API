@@ -4,7 +4,7 @@ Modified Object Detection API with custom SSDlite FPN MobileNet V2 model.
 This repository contains only changed files from original Object Detection API:
 https://github.com/tensorflow/models/tree/master/research/object_detection
 
-The default SSDlite FPN MobileNet V2 model with Object Detection API is large and slow.
+The default SSDlite FPN MobileNet V2 model from Object Detection API is large and slow.
 This modified model is much faster and has almost the same detection performance, especially for small objects.
 
 Modified SSDlite FPN MobileNet V2:
