@@ -23,5 +23,3 @@ Number of detections on individual feature maps:
 
 Performance comparison:
 ![Number of detections](https://raw.githubusercontent.com/KrzysztofV/SSDlite-FPN-MobileNet-V2-Object-Detection-API/master/comparison.png)
-
-
